@@ -11,7 +11,7 @@
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
                         connectionURL="jdbc:mysql://127.0.0.1:3306/miaosha2"
                         userId="root"
-                        password="12345678">
+                        password="root">
         </jdbcConnection>
 
 
